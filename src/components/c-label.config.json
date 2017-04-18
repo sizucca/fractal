@@ -1,0 +1,9 @@
+{
+    "title": "c-label",
+    "label": "c-label",
+    "status": "ready",
+    "context": {
+        "button-text": "Click me!",
+        "is-sparkly": true
+    }
+}

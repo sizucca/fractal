@@ -1,0 +1,8 @@
+# OS system file
+.DS_Store
+Thumbs.db
+/\.
+!.gitkeep
+.tmp_dst/
+.tmp_src/
+node_modules/

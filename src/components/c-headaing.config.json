@@ -1,0 +1,9 @@
+{
+    "title": "c-heading",
+    "label": "c-heading",
+    "status": "wip",
+    "context": {
+        "button-text": "Click me!",
+        "is-sparkly": true
+    }
+}
