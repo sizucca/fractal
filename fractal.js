@@ -25,7 +25,7 @@ fractal.docs.set('path', __dirname + '/src/docs');
 fractal.web.set('static.path', __dirname + '/src/css');
 
 // builder
-fractal.web.set('builder.dest', __dirname + '/public');
+fractal.web.set('builder.dest', __dirname + '/docs');
 fractal.web.set('builder.ext', '.html');
 
 fractal.components.set('statuses', {
